@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: "gamesCell",
+  name: 'gamesCell',
   props: {
     player1: {
       type: Boolean,

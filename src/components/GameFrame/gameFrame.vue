@@ -14,7 +14,7 @@
 import GamesCell from "@/components/GameFrame/gamesCell";
 import GButton from "@/components/ui/g-button";
 export default {
-  name: "gameFrame",
+  name: 'gameFrame',
   components: {GButton, GamesCell},
   data() {
     return {
